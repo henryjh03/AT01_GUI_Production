@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 85
+  controlID: 110
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 17
+  controlID: 40
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 18
+  controlID: 41
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -311,6 +311,8 @@ MonoBehaviour:
   m_ViewTransforms:
     m_KeySerializationHelper:
     - {fileID: -5249695753025957406, guid: 437cdbf2e412bff46bc6bb6956f0f8ab, type: 2}
+    - {fileID: -3940801079475396963, guid: 5262ecd86302e4742be454f51de8fae7, type: 2}
+    - {fileID: 5569619868465722493, guid: 72e335c3c861f9a4599eba131858f552, type: 2}
     m_ValueSerializationHelper:
     - e00: 0.83087504
       e01: 0
@@ -328,10 +330,42 @@ MonoBehaviour:
       e31: 0
       e32: 0
       e33: 1
+    - e00: 0.97157896
+      e01: 0
+      e02: 0
+      e03: -33.57895
+      e10: 0
+      e11: 0.97157896
+      e12: 0
+      e13: 80.41579
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    - e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: 437cdbf2e412bff46bc6bb6956f0f8ab, type: 2}
+  m_AnimatorController: {fileID: 9100000, guid: 72e335c3c861f9a4599eba131858f552, type: 2}
   m_BreadCrumbs:
-  - m_Target: {fileID: -5249695753025957406, guid: 437cdbf2e412bff46bc6bb6956f0f8ab, type: 2}
+  - m_Target: {fileID: 5569619868465722493, guid: 72e335c3c861f9a4599eba131858f552, type: 2}
     m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
   stateMachineGraphGUI: {fileID: 0}
@@ -371,7 +405,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -40160
+  m_LastSelectedObjectID: 17090
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -551,9 +585,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 960.5047, y: 543.64825, z: -59.255264}
+    m_Target: {x: 651.85077, y: 487.75623, z: 3.1484375}
     speed: 2
-    m_Value: {x: 960.5047, y: 543.64825, z: -59.255264}
+    m_Value: {x: 651.85077, y: 487.75623, z: 3.1484375}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -604,9 +638,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 625.35266
+    m_Target: 774.9072
     speed: 2
-    m_Value: 625.35266
+    m_Value: 774.9072
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -702,15 +736,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\30066080\OneDrive - TAFE\TAFE\Semester 1\Stage 1\UI
+  m_LastProjectPath: C:\Users\30066080\OneDrive - TAFE\Desktop\GitRepos\AT01_GUI_Production\UI
     Practice
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ae3e0000
-    m_LastClickedID: 16046
-    m_ExpandedIDs: 00000000a63e000000ca9a3b
+    m_SelectedIDs: ba3e0000
+    m_LastClickedID: 16058
+    m_ExpandedIDs: 00000000b23e0000b63e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -738,7 +772,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: c2abfeff
     m_LastClickedID: -87102
-    m_ExpandedIDs: 00000000a63e0000
+    m_ExpandedIDs: 00000000b23e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
